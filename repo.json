@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream TÃ¼rkÃ§e Eklenti Deposu",
+  "description": "CloudStream 3 iÃ§in TÃ¼rkÃ§e dizi, film ve anime eklentileri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/merb2y/cs-builds/builds/plugins.json"
+  ]
+}
